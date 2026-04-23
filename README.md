@@ -39,8 +39,8 @@ The main things I wanted to get right in this version were: connecting to an ext
 ## Project Structure
 chatBot/
 │
-├── app.py               # main application
-├── .env                 # API key (not committed)
+├── app.py    # main application
+├── .env      # API key (not committed)
 ├── requirements.txt     # dependencies
 ├── .gitignore
 └── README.md
