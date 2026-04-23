@@ -34,17 +34,15 @@ The main things I wanted to get right in this version were: connecting to an ext
 - Keeps the API key out of the code using a `.env` file
 - Runs entirely on CPU — no GPU needed
 
----
-
-## Project Structure
+```
 chatBot/
 │
-├── app.py    # main application
-├── .env      # API key (not committed)
+├── app.py               # main application
+├── .env                 # API key (not committed)
 ├── requirements.txt     # dependencies
 ├── .gitignore
 └── README.md
----
+```
 
 ## How to Run
 
